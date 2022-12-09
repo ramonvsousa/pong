@@ -124,7 +124,6 @@ window.onload = function () {
     function errorChance() {
         error_chance = Math.floor(Math.random() * 100);
         error_chance *= Math.pow(2, Math.floor(Math.random() * 2) + 1) - 3;
-        console.log(error_chance)
     }
 
     document.addEventListener("keydown", function (event) {
