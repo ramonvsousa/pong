@@ -1,6 +1,5 @@
 # **PONG**
 ## Atividade: Pong - Atari, 1972
-**Programa do evento**
 
 Atividade realizada com o intuito de conhecer mais sobre o Git, GitHub e conceitos básico de JavaScript.
 
